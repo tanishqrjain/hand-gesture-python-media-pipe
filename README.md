@@ -12,6 +12,6 @@ Prerequisites
 Before running the code, make sure you have the following dependencies installed:
 
 Python 3.x
-OpenCV (pip install opencv-python)
-MediaPipe (pip install mediapipe)
-PyAutoGUI (pip install pyautogui)
+- OpenCV (pip install opencv-python)
+- MediaPipe (pip install mediapipe)
+- PyAutoGUI (pip install pyautogui)
